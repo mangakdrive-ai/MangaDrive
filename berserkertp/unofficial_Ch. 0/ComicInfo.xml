@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Title>Ch. 0 - Oneshot</Title>
+  <Series>Berserk - The Prototype</Series>
+  <Number>0</Number>
+  <Summary>The original pre-serialization one-shot for Berserk. Included in Berserk Volume 14. --- - Won the Comi Manga School Prize in 1988</Summary>
+  <Writer>Miura Kentarou</Writer>
+  <Penciller>Miura Kentarou</Penciller>
+  <Translator>unofficial</Translator>
+  <Genre>Other, Action, Comedy, Thriller, Adventure, Fantasy, Demons</Genre>
+  <Web>https://anilist.co/manga/36408 https://mangafire.to/title/zl4mm-berserk-the-prototypee/3334915-chapter-0-pt-br</Web>
+  <ty:PublishingStatusTachiyomi xmlns:ty="http://www.w3.org/2001/XMLSchema">Completed</ty:PublishingStatusTachiyomi>
+  <ty:Categories xmlns:ty="http://www.w3.org/2001/XMLSchema">LIDO</ty:Categories>
+  <mh:SourceMihon xmlns:mh="http://www.w3.org/2001/XMLSchema">MangaFire</mh:SourceMihon>
+</ComicInfo>

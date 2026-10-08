@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Title>Ch. 2</Title>
+  <Series>Akuma Kishi</Series>
+  <Number>2</Number>
+  <Summary>The beginning of a saga. The story of a "time of yonder" about the birth of Devilman.</Summary>
+  <Writer>Nagai Go</Writer>
+  <Penciller>Nagai Go, Dynamic Pro</Penciller>
+  <Translator>unofficial</Translator>
+  <Genre>Manga, Fantasy, Tragedy, Mature, Supernatural</Genre>
+  <Web>https://anilist.co/manga/37757 https://mangafire.to/title/qw2w-akuma-kishi/6007642-chapter-2-pt-br</Web>
+  <ty:PublishingStatusTachiyomi xmlns:ty="http://www.w3.org/2001/XMLSchema">Ongoing</ty:PublishingStatusTachiyomi>
+  <ty:Categories xmlns:ty="http://www.w3.org/2001/XMLSchema">LIDO</ty:Categories>
+  <mh:SourceMihon xmlns:mh="http://www.w3.org/2001/XMLSchema">MangaFire</mh:SourceMihon>
+</ComicInfo>
